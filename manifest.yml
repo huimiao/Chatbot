@@ -1,7 +1,7 @@
 ---
 applications:
 - name: mh123
-  path: target/mh123-0.0.1.war
+  path: target/Chatbot-0.0.1.war
   buildpack: liberty-for-java
   env:
     CONVERSATION_WORKSPACE_ID: 1272c466-26ae-40d4-9a0b-8de65a63c154
